@@ -1,4 +1,4 @@
 # POST
 
-javac Imp.java
+javac Imp.java\n
 java Imp
