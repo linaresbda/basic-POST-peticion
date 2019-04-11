@@ -1,1 +1,4 @@
-# basic-petici-n-post
+# POST
+
+javac Imp.java
+java Imp
